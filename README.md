@@ -18,7 +18,7 @@
  
 ## 핵심 역량
  
-- 0→1 디자인 시스템 구축 — 토큰 설계, 컴포넌트 라이브러리, 문서 사이트
+- - 디자인 시스템 재구축 — MUI에서 자체 시스템으로, 토큰 설계·컴포넌트 라이브러리·문서 사이트
 - Token Studio → Style Dictionary → CSS 변수로 이어지는 토큰 파이프라인 설계
 - Figma Code Connect 기반 디자인-코드 1:1 매핑 운영
 - 서비스 정책 · PRD 작성과 화면 설계 — 정책을 먼저 세우고 화면을 그리는 순서
@@ -28,7 +28,7 @@
 | 프로젝트 | 역할 | 요약 |
 | --- | --- | --- |
 | [Keeper 리스트뷰 UX 개선](https://jinah-yeom.github.io/work/keeper-listview) | 정책 · PRD · UX/UI 설계 · 스프린트 관리 (1인) | 스크롤뿐이던 업무 탐색을 날짜 선택 → 조건 좁히기 흐름으로 재설계 |
-| [Keeper Design System](https://jinah-yeom.github.io/work/kds) | Design · Development (1인) | B2B 어드민 제품의 디자인 시스템 0→1 — 토큰 300+ · 컴포넌트 12종 · 문서 사이트 |
+| [Keeper Design System](https://jinah-yeom.github.io/work/kds) | Design · Development (1인) | MUI 기반 B2B 어드민 제품을 자체 디자인 시스템으로 재구축 — CSS 변수 346개 · 컴포넌트 33종 · 문서 사이트 |
 | [포트폴리오 사이트](https://github.com/jinah-yeom/jinah-yeom.github.io) | 기획 · 디자인 · 개발 (1인) | KDS 토큰으로 렌더링되는 사이트 — 하드코딩 0을 빌드 단계에서 검증 |
  
 ## 일하는 방식
